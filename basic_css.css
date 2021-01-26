@@ -11,7 +11,7 @@ html{
     scroll-behavior: smooth;
 }
 #logo{
-    width: 55px;
+    width: 10px;
 }
 /* custom scroll bar */
 ::-webkit-scrollbar {
