@@ -10,7 +10,9 @@
 html{
     scroll-behavior: smooth;
 }
-
+#logo{
+    width: 55px;
+}
 /* custom scroll bar */
 ::-webkit-scrollbar {
     width: 10px;
