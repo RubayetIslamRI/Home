@@ -368,10 +368,10 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .css::before{
-    width: 40%;
+    width: 60%;
 }
 .skills-content .right .js::before{
-    width: 00%;
+    width: 40%;
 }
 
 
